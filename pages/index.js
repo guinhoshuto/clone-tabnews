@@ -1,7 +1,5 @@
-function Home(){
-    return (
-        <div>CHUPA NGROK</div>
-    )
+function Home() {
+  return <div>CHUPA NGROK</div>;
 }
 
-export default Home
+export default Home;
